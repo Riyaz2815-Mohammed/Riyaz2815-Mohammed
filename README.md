@@ -125,10 +125,11 @@ class MohammedRiyaz:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyaz2815-Mohammed&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riyaz2815-Mohammed&theme=tokyonight" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Riyaz2815-Mohammed&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=e5e7eb&dates=9ca3af&stroke=F97316&currStreakLabel=F97316&sideLabels=e5e7eb" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz2815-Mohammed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riyaz2815-Mohammed&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riyaz2815-Mohammed&theme=tokyonight" />
 
 </div>
 
@@ -138,17 +139,7 @@ class MohammedRiyaz:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz2815-Mohammed&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Riyaz2815-Mohammed&theme=onedark&no-frame=true&margin-w=8&margin-h=8" />
+<img width="100%" src="https://ghchart.rshah.org/CC6D52/Riyaz2815-Mohammed" alt="Contribution chart" />
 
 </div>
 
