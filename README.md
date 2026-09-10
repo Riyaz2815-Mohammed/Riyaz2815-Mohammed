@@ -1,37 +1,37 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mohammed%20Riyaz&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CTO%20•%20Software%20Engineer%20•%20Builder%20of%20things%20that%20(mostly)%20don't%20break&descAlignY=60&descSize=16&descColor=2DD4BF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8&height=220&section=header&text=Mohammed%20Riyaz&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CTO%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Builder%20of%20things%20that%20(mostly)%20don%27t%20break&descAlignY=60&descSize=16&descColor=F97316" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohammed+Riyaz+%F0%9F%91%8B;CTO+%40+Arguz+%F0%9F%9A%80;Building+SaaS+at+3+AM+%F0%9F%8C%99;Full-Stack+%2B+Cloud+%2B+AI+Engineer+%F0%9F%A4%96;Ship+fast.+Scale+smart.+Fix+bugs+quietly." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohammed+Riyaz;CTO+%40+Arguz;Building+SaaS+at+3+AM;Full-Stack+%2B+Cloud+%2B+AI+Engineer;Ship+fast.+Scale+smart.+Fix+bugs+quietly." alt="Typing SVG" />
 
 <br/>
 
-[![CTO @ Arguz](https://img.shields.io/badge/CTO-Arguz-2DD4BF?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Riyaz2815-Mohammed)
-[![Software Engineer](https://img.shields.io/badge/Software-Engineer-0EA5E9?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/Riyaz2815-Mohammed)
+[![CTO @ Arguz](https://img.shields.io/badge/CTO-Arguz-F97316?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Riyaz2815-Mohammed)
+[![Software Engineer](https://img.shields.io/badge/Software-Engineer-FB923C?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/Riyaz2815-Mohammed)
 [![Student](https://img.shields.io/badge/Final--Year-Engineering-F97316?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Riyaz2815-Mohammed)
-[![Open to Collaborate](https://img.shields.io/badge/Open%20To-Collaborate-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/Riyaz2815-Mohammed)
+[![Open to Collaborate](https://img.shields.io/badge/Open%20To-Collaborate-EA580C?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/Riyaz2815-Mohammed)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Riyaz2815-Mohammed&style=for-the-badge&color=2DD4BF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Riyaz2815-Mohammed&style=for-the-badge&color=F97316&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### 🧑‍💻 `whoami`
+### `whoami`
 
 ```python
 class MohammedRiyaz:
     pronouns       = "he/him"
     role           = ["CTO", "Software Engineer", "SRE (self-appointed)", "Final-Year Student"]
     company        = "Arguz"               # my own SaaS startup
-    location       = "India 🇮🇳"
+    location       = "India"
 
     def currently_building(self):
         return [
-            "🎓  Ed-tech platform for competitive exam prep",
-            "🤖  AI-assisted doubt-solving engine (LLM + RAG)",
-            "📊  Analytics dashboards for 10 000+ students",
-            "🏗️  Internal developer platform at Arguz",
+            "Ed-tech platform for competitive exam prep",
+            "AI-assisted doubt-solving engine (LLM + RAG)",
+            "Analytics dashboards for 10 000+ students",
+            "Internal developer platform at Arguz",
         ]
 
     def current_obsessions(self):
@@ -43,7 +43,7 @@ class MohammedRiyaz:
     def fun_facts(self):
         return [
             "Fixed more Docker networking issues than I've had cups of coffee.",
-            "Deployed to prod the night before a semester exam. Both passed. 🎉",
+            "Deployed to prod the night before a semester exam. Both passed.",
             "I blame the network first. It's usually DNS.",
         ]
 
@@ -53,18 +53,18 @@ class MohammedRiyaz:
 
 ---
 
-### 🚀 What I'm Shipping Right Now
+### What I'm Shipping
 
 | Project | Stack | Status |
 |---|---|---|
-| 🎓 **Ed-tech Platform** | FastAPI · Next.js · PostgreSQL · AWS | 🟢 Active |
-| 🤖 **AI Doubt Solver** | LangChain · AWS Bedrock · RAG | 🟡 Building |
-| 🏗️ **Internal Dev Platform** | Terraform · ArgoCD · GitLab CI | 🟢 Active |
-| 📊 **Analytics Dashboard** | Python · Jupyter · Grafana | 🔵 Iterating |
+| **Ed-tech Platform** | FastAPI · Next.js · PostgreSQL · AWS | Active |
+| **AI Doubt Solver** | LangChain · AWS Bedrock · RAG | Building |
+| **Internal Dev Platform** | Terraform · ArgoCD · GitLab CI | Active |
+| **Analytics Dashboard** | Python · Jupyter · Grafana | Iterating |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -119,44 +119,56 @@ class MohammedRiyaz:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyaz2815-Mohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaz2815-Mohammed&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyaz2815-Mohammed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=e5e7eb" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Riyaz2815-Mohammed&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=e5e7eb&dates=9ca3af&stroke=F97316&currStreakLabel=F97316&sideLabels=e5e7eb" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz2815-Mohammed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz2815-Mohammed&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=F97316&text_color=e5e7eb" />
 
 </div>
 
 ---
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz2815-Mohammed&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz2815-Mohammed&bg_color=0d1117&color=F97316&line=F97316&point=FB923C&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=F97316" />
 
 </div>
 
 ---
 
-### 🏆 Trophies
+### Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Riyaz2815-Mohammed&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Riyaz2815-Mohammed&theme=radical&no-frame=true&margin-w=8&margin-h=8" />
 
 </div>
 
 ---
 
-### 🐍 Watch My Contributions Get Eaten
+<div align="center">
+
+<img width="100%" src="assets/orange-bot.svg" alt="Orange bot running animation" />
+
+</div>
+
+---
+
+### Watch My Contributions Get Eaten
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Riyaz2815-Mohammed/Riyaz2815-Mohammed/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riyaz2815-Mohammed/Riyaz2815-Mohammed/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riyaz2815-Mohammed/Riyaz2815-Mohammed/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Riyaz2815-Mohammed/Riyaz2815-Mohammed/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -166,8 +178,8 @@ class MohammedRiyaz:
 
 *"The best code is code that solves real problems for real people — everything else is just clever."*
 
-**📫 Find me on GitHub · More links coming soon**
+**Find me on GitHub · More links coming soon**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8&height=120&section=footer" />
 
 </div>

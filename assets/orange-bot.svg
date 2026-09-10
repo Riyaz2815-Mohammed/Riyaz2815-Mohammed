@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130">
+  <style>
+    .slide  { animation: slide  8s linear infinite; }
+    .bounce { animation: bounce 0.42s ease-in-out infinite alternate; }
+    .ll { transform-box:fill-box; transform-origin:50% 0%; animation:ll 0.42s ease-in-out infinite alternate; }
+    .lr { transform-box:fill-box; transform-origin:50% 0%; animation:lr 0.42s ease-in-out infinite alternate; }
+    .al { transform-box:fill-box; transform-origin:90% 50%; animation:al 0.42s ease-in-out infinite alternate; }
+    .ar { transform-box:fill-box; transform-origin:10% 50%; animation:ar 0.42s ease-in-out infinite alternate; }
+    .sh { transform-box:fill-box; transform-origin:50% 50%; animation:sh 0.42s ease-in-out infinite alternate; }
+    @keyframes slide  { 0%{transform:translate(-80px,95px)}  100%{transform:translate(980px,95px)} }
+    @keyframes bounce { 0%{transform:translateY(0)}          100%{transform:translateY(-8px)} }
+    @keyframes ll     { 0%{transform:rotate(-28deg)}         100%{transform:rotate(28deg)} }
+    @keyframes lr     { 0%{transform:rotate(28deg)}          100%{transform:rotate(-28deg)} }
+    @keyframes al     { 0%{transform:rotate(-28deg)}         100%{transform:rotate(28deg)} }
+    @keyframes ar     { 0%{transform:rotate(28deg)}          100%{transform:rotate(-28deg)} }
+    @keyframes sh     { 0%{transform:scaleX(1);   opacity:.13} 100%{transform:scaleX(.55); opacity:.06} }
+  </style>
+
+  <rect width="900" height="130" fill="none"/>
+  <line x1="0" y1="124" x2="900" y2="124" stroke="#F97316" stroke-width="1" stroke-dasharray="7,7" opacity="0.18"/>
+
+  <g class="slide">
+    <!-- shadow stays on ground outside bounce group -->
+    <ellipse class="sh" cx="0" cy="26" rx="20" ry="4" fill="#F97316"/>
+
+    <g class="bounce">
+      <!-- legs -->
+      <rect class="ll" x="-16" y="0"   width="9" height="24" rx="4" fill="#F97316"/>
+      <rect class="lr" x="7"  y="0"    width="9" height="24" rx="4" fill="#F97316"/>
+
+      <!-- body -->
+      <rect x="-22" y="-29" width="44" height="29" rx="7" fill="#EA580C"/>
+      <!-- chest panel -->
+      <rect x="-13" y="-22" width="26" height="13" rx="3" fill="#F97316" opacity="0.5"/>
+      <!-- indicator light -->
+      <circle cx="0" cy="-15" r="4"   fill="#FDBA74"/>
+      <circle cx="0" cy="-15" r="2"   fill="#C2410C"/>
+
+      <!-- arms -->
+      <rect class="al" x="-36" y="-25" width="14" height="8" rx="4" fill="#F97316"/>
+      <rect class="ar" x="22"  y="-25" width="14" height="8" rx="4" fill="#F97316"/>
+
+      <!-- neck -->
+      <rect x="-6" y="-37" width="12" height="9" rx="3" fill="#C2410C"/>
+
+      <!-- head -->
+      <rect x="-18" y="-64" width="36" height="28" rx="7" fill="#F97316"/>
+
+      <!-- antenna -->
+      <line x1="0" y1="-64" x2="0" y2="-72" stroke="#FB923C" stroke-width="2"/>
+      <circle cx="0" cy="-76" r="5"   fill="#FED7AA"/>
+      <circle cx="0" cy="-76" r="2.5" fill="#F97316"/>
+
+      <!-- eye whites -->
+      <rect x="-14" y="-58" width="10" height="14" rx="3" fill="#FFF7ED"/>
+      <rect x="4"   y="-58" width="10" height="14" rx="3" fill="#FFF7ED"/>
+      <!-- pupils -->
+      <circle cx="-9" cy="-51" r="3.5" fill="#111"/>
+      <circle cx="9"  cy="-51" r="3.5" fill="#111"/>
+      <!-- eye shine -->
+      <circle cx="-7" cy="-54" r="1.5" fill="white"/>
+      <circle cx="11" cy="-54" r="1.5" fill="white"/>
+
+      <!-- smile -->
+      <path d="M-8 -39 Q0 -34 8 -39" stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
