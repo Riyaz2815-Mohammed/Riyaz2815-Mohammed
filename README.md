@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8&height=220&section=header&text=Mohammed%20Riyaz&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CTO%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Builder%20of%20things%20that%20(mostly)%20don%27t%20break&descAlignY=60&descSize=16&descColor=F97316" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:F97316,100:DC2626&height=220&section=header&text=Mohammed%20Riyaz&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CTO%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Builder%20of%20things%20that%20(mostly)%20don%27t%20break&descAlignY=60&descSize=16&descColor=FED7AA" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohammed+Riyaz;CTO+%40+Arguz;Building+SaaS+at+3+AM;Full-Stack+%2B+Cloud+%2B+AI+Engineer;Ship+fast.+Scale+smart.+Fix+bugs+quietly." alt="Typing SVG" />
 
@@ -180,6 +180,6 @@ class MohammedRiyaz:
 
 **Find me on GitHub · More links coming soon**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:F97316,100:FF4500&height=120&section=footer" />
 
 </div>
