@@ -1,56 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" shape-rendering="crispEdges">
   <style>
-    .slide  { animation: slide  8s linear infinite; }
-    .bounce { animation: bounce 0.42s ease-in-out infinite alternate; }
-    .ll { transform-box:fill-box; transform-origin:50% 0%;  animation:ll 0.42s ease-in-out infinite alternate; }
-    .lr { transform-box:fill-box; transform-origin:50% 0%;  animation:lr 0.42s ease-in-out infinite alternate; }
-    .al { transform-box:fill-box; transform-origin:90% 50%; animation:al 0.42s ease-in-out infinite alternate; }
-    .ar { transform-box:fill-box; transform-origin:10% 50%; animation:ar 0.42s ease-in-out infinite alternate; }
-    .sh { transform-box:fill-box; transform-origin:50% 50%; animation:sh 0.42s ease-in-out infinite alternate; }
-    @keyframes slide  { 0%{transform:translate(-80px,95px)}   100%{transform:translate(980px,95px)} }
-    @keyframes bounce { 0%{transform:translateY(0)}           100%{transform:translateY(-8px)} }
-    @keyframes ll     { 0%{transform:rotate(-28deg)}          100%{transform:rotate(28deg)} }
-    @keyframes lr     { 0%{transform:rotate(28deg)}           100%{transform:rotate(-28deg)} }
-    @keyframes al     { 0%{transform:rotate(-28deg)}          100%{transform:rotate(28deg)} }
-    @keyframes ar     { 0%{transform:rotate(28deg)}           100%{transform:rotate(-28deg)} }
-    @keyframes sh     { 0%{transform:scaleX(1); opacity:.12}  100%{transform:scaleX(.55); opacity:.05} }
+    .slide  { animation: slide  9s linear infinite; }
+    .bounce { animation: bounce 0.45s ease-in-out infinite alternate; }
+    .walk-l { animation: walkl  0.4s linear infinite; }
+    .walk-r { animation: walkr  0.4s linear infinite; }
+    .sh     { transform-box:fill-box; transform-origin:50% 50%;
+              animation: sh 0.45s ease-in-out infinite alternate; }
+
+    @keyframes slide  { 0%{transform:translate(-100px,90px)} 100%{transform:translate(1000px,90px)} }
+    @keyframes bounce { 0%{transform:translateY(0px)}        100%{transform:translateY(-9px)} }
+    @keyframes walkl  { 0%,49%{transform:translateY(0px)} 50%,100%{transform:translateY(5px)} }
+    @keyframes walkr  { 0%,49%{transform:translateY(5px)} 50%,100%{transform:translateY(0px)} }
+    @keyframes sh     { 0%{transform:scaleX(1);opacity:.14}  100%{transform:scaleX(.5);opacity:.05} }
   </style>
 
   <rect width="900" height="130" fill="none"/>
-  <line x1="0" y1="124" x2="900" y2="124" stroke="#F97316" stroke-width="1" stroke-dasharray="7,7" opacity="0.18"/>
+  <line x1="0" y1="124" x2="900" y2="124"
+        stroke="#CC6D52" stroke-width="1" stroke-dasharray="8,8" opacity="0.2"/>
 
   <g class="slide">
     <!-- ground shadow -->
-    <ellipse class="sh" cx="0" cy="30" rx="22" ry="4" fill="#F97316"/>
+    <ellipse class="sh" cx="0" cy="33" rx="28" ry="5" fill="#CC6D52"/>
 
     <g class="bounce">
-      <!-- legs -->
-      <rect class="ll" x="-16" y="3"  width="9" height="24" rx="4" fill="#F97316"/>
-      <rect class="lr" x="7"   y="3"  width="9" height="24" rx="4" fill="#F97316"/>
 
-      <!-- body -->
-      <rect x="-24" y="-21" width="48" height="24" rx="10" fill="#EA580C"/>
-      <!-- "Claude" label on chest -->
-      <text x="0" y="-10" text-anchor="middle"
-            font-family="Arial,Helvetica,sans-serif" font-size="7"
-            font-weight="bold" fill="#FFF7ED" letter-spacing="0.5">Claude</text>
+      <!-- ── left arm (side extension) ── -->
+      <rect x="-34" y="-3" width="10" height="14" fill="#CC6D52"/>
+      <!-- ── right arm (side extension) ── -->
+      <rect x="24"  y="-3" width="10" height="14" fill="#CC6D52"/>
 
-      <!-- arms -->
-      <rect class="al" x="-39" y="-17" width="15" height="9" rx="4" fill="#F97316"/>
-      <rect class="ar" x="24"  y="-17" width="15" height="9" rx="4" fill="#F97316"/>
+      <!-- ── main body ── -->
+      <rect x="-24" y="-16" width="48" height="32" fill="#CC6D52"/>
 
-      <!-- neck -->
-      <rect x="-7" y="-29" width="14" height="9" rx="4" fill="#C2410C"/>
+      <!-- ── eye cutouts (black, like the image) ── -->
+      <rect x="-15" y="-12" width="7" height="12" fill="black"/>
+      <rect x="8"   y="-12" width="7" height="12" fill="black"/>
 
-      <!-- head — large circle, Claude-style rounded -->
-      <circle cx="0" cy="-50" r="21" fill="#F97316"/>
+      <!-- ── legs: left pair ── -->
+      <g class="walk-l">
+        <rect x="-18" y="16" width="7" height="15" fill="#CC6D52"/>
+        <rect x="-7"  y="16" width="7" height="15" fill="#CC6D52"/>
+      </g>
+      <!-- ── legs: right pair ── -->
+      <g class="walk-r">
+        <rect x="0"  y="16" width="7" height="15" fill="#CC6D52"/>
+        <rect x="11" y="16" width="7" height="15" fill="#CC6D52"/>
+      </g>
 
-      <!-- eyes — upward arcs (Claude's expressive aesthetic) -->
-      <path d="M-14 -50 Q-10 -57 -6 -50" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-      <path d="M  6 -50 Q 10 -57 14 -50" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-
-      <!-- smile -->
-      <path d="M-9 -41 Q0 -35 9 -41" stroke="white" stroke-width="2" fill="none" stroke-linecap="round"/>
     </g>
   </g>
 </svg>
