@@ -66,6 +66,8 @@ class MohammedRiyaz:
 
 ### Tech Stack
 
+<img width="100%" src="assets/orange-bot.svg" alt="Claude bot running across the tech stack" />
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -123,10 +125,10 @@ class MohammedRiyaz:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyaz2815-Mohammed&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&icon_color=F97316&title_color=F97316" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyaz2815-Mohammed&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Riyaz2815-Mohammed&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=e5e7eb&dates=9ca3af&stroke=F97316&currStreakLabel=F97316&sideLabels=e5e7eb" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz2815-Mohammed&theme=dark&layout=compact&hide_border=true&langs_count=8&title_color=F97316" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz2815-Mohammed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -136,7 +138,7 @@ class MohammedRiyaz:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz2815-Mohammed&theme=github-dark&custom_title=Contribution%20Activity&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz2815-Mohammed&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -147,14 +149,6 @@ class MohammedRiyaz:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Riyaz2815-Mohammed&theme=onedark&no-frame=true&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="assets/orange-bot.svg" alt="Orange bot running animation" />
 
 </div>
 
