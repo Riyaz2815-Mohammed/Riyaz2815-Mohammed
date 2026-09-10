@@ -126,7 +126,7 @@ class MohammedRiyaz:
 <div align="center">
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riyaz2815-Mohammed&theme=tokyonight" />
-<img height="170" src="https://streak-stats.demolab.com/?user=Riyaz2815-Mohammed&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=e5e7eb&dates=9ca3af&stroke=F97316&currStreakLabel=F97316&sideLabels=e5e7eb" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riyaz2815-Mohammed&theme=tokyonight&utcOffset=+5.5" />
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riyaz2815-Mohammed&theme=tokyonight" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riyaz2815-Mohammed&theme=tokyonight" />
