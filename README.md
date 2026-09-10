@@ -123,10 +123,10 @@ class MohammedRiyaz:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyaz2815-Mohammed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=e5e7eb" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyaz2815-Mohammed&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&icon_color=F97316&title_color=F97316" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Riyaz2815-Mohammed&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=e5e7eb&dates=9ca3af&stroke=F97316&currStreakLabel=F97316&sideLabels=e5e7eb" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz2815-Mohammed&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=F97316&text_color=e5e7eb" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz2815-Mohammed&theme=dark&layout=compact&hide_border=true&langs_count=8&title_color=F97316" />
 
 </div>
 
@@ -136,7 +136,7 @@ class MohammedRiyaz:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz2815-Mohammed&bg_color=0d1117&color=F97316&line=F97316&point=FB923C&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=F97316" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaz2815-Mohammed&theme=github-dark&custom_title=Contribution%20Activity&hide_border=true" />
 
 </div>
 
@@ -146,7 +146,7 @@ class MohammedRiyaz:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Riyaz2815-Mohammed&theme=radical&no-frame=true&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Riyaz2815-Mohammed&theme=onedark&no-frame=true&margin-w=8&margin-h=8" />
 
 </div>
 
